@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5ECB34A5-030D-43DC-A2F7-882434FA05AE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>digitalR.My.MyApplication</StartupObject>
+    <RootNamespace>digitalR</RootNamespace>
+    <AssemblyName>digitalR</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>digitalR.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>digitalR.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admin.Designer.vb">
+      <DependentUpon>admin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminLogin.Designer.vb">
+      <DependentUpon>AdminLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminorderview.Designer.vb">
+      <DependentUpon>adminorderview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="adminorderview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="category.Designer.vb">
+      <DependentUpon>category.vb</DependentUpon>
+    </Compile>
+    <Compile Include="category.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Class1.vb" />
+    <Compile Include="AdminDailyreport.Designer.vb">
+      <DependentUpon>AdminDailyreport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminDailyreport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="digitalrDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>digitalrDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="feedback.Designer.vb">
+      <DependentUpon>feedback.vb</DependentUpon>
+    </Compile>
+    <Compile Include="feedback.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home.Designer.vb">
+      <DependentUpon>home.vb</DependentUpon>
+    </Compile>
+    <Compile Include="home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KitchenAllRecord.Designer.vb">
+      <DependentUpon>KitchenAllRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KitchenAllRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KitchenLogin.Designer.vb">
+      <DependentUpon>KitchenLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KitchenLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kitchen.Designer.vb">
+      <DependentUpon>kitchen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="kitchen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainHomepage.Designer.vb">
+      <DependentUpon>MainHomepage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainHomepage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageStaffDetails.Designer.vb">
+      <DependentUpon>ManageStaffDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManageStaffDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="paymentRecord.Designer.vb">
+      <DependentUpon>paymentRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="paymentRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RestaurantDetailManage.Designer.vb">
+      <DependentUpon>RestaurantDetailManage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RestaurantDetailManage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserMenuShow.Designer.vb">
+      <DependentUpon>UserMenuShow.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserMenuShow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Offer.Designer.vb">
+      <DependentUpon>Offer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Offer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="offerupdate.Designer.vb">
+      <DependentUpon>offerupdate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="offerupdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.vb">
+      <DependentUpon>Register.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Register.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RegisterUser.Designer.vb">
+      <DependentUpon>RegisterUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RestuarantInformation.Designer.vb">
+      <DependentUpon>RestuarantInformation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RestuarantInformation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageItem.Designer.vb">
+      <DependentUpon>ManageItem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManageItem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserHomePage.Designer.vb">
+      <DependentUpon>UserHomePage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserHomePage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userPayment.Designer.vb">
+      <DependentUpon>userPayment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="userPayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vieworder.Designer.vb">
+      <DependentUpon>Vieworder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vieworder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="admin.resx">
+      <DependentUpon>admin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminLogin.resx">
+      <DependentUpon>AdminLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminorderview.resx">
+      <DependentUpon>adminorderview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="category.resx">
+      <DependentUpon>category.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminDailyreport.resx">
+      <DependentUpon>AdminDailyreport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="feedback.resx">
+      <DependentUpon>feedback.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home.resx">
+      <DependentUpon>home.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KitchenAllRecord.resx">
+      <DependentUpon>KitchenAllRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KitchenLogin.resx">
+      <DependentUpon>KitchenLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitchen.resx">
+      <DependentUpon>kitchen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainHomepage.resx">
+      <DependentUpon>MainHomepage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageStaffDetails.resx">
+      <DependentUpon>ManageStaffDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="paymentRecord.resx">
+      <DependentUpon>paymentRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RestaurantDetailManage.resx">
+      <DependentUpon>RestaurantDetailManage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserMenuShow.resx">
+      <DependentUpon>UserMenuShow.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Offer.resx">
+      <DependentUpon>Offer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="offerupdate.resx">
+      <DependentUpon>offerupdate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterUser.resx">
+      <DependentUpon>RegisterUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RestuarantInformation.resx">
+      <DependentUpon>RestuarantInformation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageItem.resx">
+      <DependentUpon>ManageItem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserHomePage.resx">
+      <DependentUpon>UserHomePage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userPayment.resx">
+      <DependentUpon>userPayment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vieworder.resx">
+      <DependentUpon>Vieworder.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="digitalrDataSet.xsc">
+      <DependentUpon>digitalrDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="digitalrDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>digitalrDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="digitalrDataSet.xss">
+      <DependentUpon>digitalrDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Restaurant-logos-creative-design-vector-02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock-vector-restaurant-logo-creative-272549726.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\th.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\le-champ-des-lunes-restaurant-gastronomique-au-coeur-du-luberon-fond-background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paneer-tikka-masala.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\u8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paytm-accepted-here.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sacan code.PNG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

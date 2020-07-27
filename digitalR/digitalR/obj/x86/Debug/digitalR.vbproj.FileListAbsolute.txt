@@ -1,0 +1,99 @@
+F:\vb.net project\digitalR\digitalR\bin\Debug\digitalR.exe
+F:\vb.net project\digitalR\digitalR\bin\Debug\digitalR.pdb
+F:\vb.net project\digitalR\digitalR\bin\Debug\digitalR.xml
+F:\vb.net project\digitalR\digitalR\obj\x86\Debug\digitalR.login.resources
+F:\vb.net project\digitalR\digitalR\obj\x86\Debug\digitalR.Resources.resources
+F:\vb.net project\digitalR\digitalR\obj\x86\Debug\digitalR.vbproj.GenerateResource.Cache
+F:\vb.net project\digitalR\digitalR\obj\x86\Debug\digitalR.exe
+F:\vb.net project\digitalR\digitalR\obj\x86\Debug\digitalR.xml
+F:\vb.net project\digitalR\digitalR\obj\x86\Debug\digitalR.pdb
+F:\vb.net project\digitalR\digitalR\obj\x86\Debug\digitalR.Register.resources
+F:\vb.net project\digitalR\digitalR\obj\x86\Debug\digitalR.Admin.resources
+F:\vb.net project\digitalR\digitalR\obj\x86\Debug\digitalR.category.resources
+F:\vb.net project\digitalR\digitalR\obj\x86\Debug\digitalR.product.resources
+F:\vb.net project\digitalR\digitalR\obj\x86\Debug\digitalR.menulist.resources
+G:\priject backup\digitalR\digitalR\obj\x86\Debug\digitalR.exe
+G:\priject backup\digitalR\digitalR\obj\x86\Debug\digitalR.xml
+G:\priject backup\digitalR\digitalR\obj\x86\Debug\digitalR.pdb
+G:\priject backup\digitalR\digitalR\bin\Debug\digitalR.exe
+G:\priject backup\digitalR\digitalR\bin\Debug\digitalR.pdb
+G:\priject backup\digitalR\digitalR\bin\Debug\digitalR.xml
+G:\priject backup\digitalR\digitalR\obj\x86\Debug\digitalR.Admin.resources
+G:\priject backup\digitalR\digitalR\obj\x86\Debug\digitalR.category.resources
+G:\priject backup\digitalR\digitalR\obj\x86\Debug\digitalR.login.resources
+G:\priject backup\digitalR\digitalR\obj\x86\Debug\digitalR.menulist.resources
+G:\priject backup\digitalR\digitalR\obj\x86\Debug\digitalR.Resources.resources
+G:\priject backup\digitalR\digitalR\obj\x86\Debug\digitalR.product.resources
+G:\priject backup\digitalR\digitalR\obj\x86\Debug\digitalR.Register.resources
+G:\priject backup\digitalR\digitalR\obj\x86\Debug\digitalR.vbproj.GenerateResource.Cache
+G:\priject backup\digitalR\digitalR\obj\x86\Debug\digitalR.UserHomePage.resources
+G:\priject backup\digitalR\digitalR\obj\x86\Debug\digitalR.Offer.resources
+G:\priject backup\digitalR\digitalR\obj\x86\Debug\digitalR.RegisterUser.resources
+G:\priject backup\digitalR\digitalR\obj\x86\Debug\digitalR.RestuarantInformation.resources
+G:\priject backup\digitalR\digitalR\obj\x86\Debug\digitalR.Vieworder.resources
+G:\priject backup\digitalR\digitalR\obj\x86\Debug\digitalR.Form1.resources
+G:\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.exe
+G:\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.xml
+G:\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.pdb
+G:\project backup new\project backup\digitalR\digitalR\bin\Debug\digitalR.exe
+G:\project backup new\project backup\digitalR\digitalR\bin\Debug\digitalR.pdb
+G:\project backup new\project backup\digitalR\digitalR\bin\Debug\digitalR.xml
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.Admin.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.category.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.kitchen.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.login.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.Resources.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.Offer.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.Register.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.RegisterUser.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.RestuarantInformation.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.UserHomePage.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.Vieworder.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.vbproj.GenerateResource.Cache
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.exe
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.xml
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.pdb
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.feedback.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.adminorderview.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.offerupdate.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.home.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.userPayment.resources
+G:\project backup new\project backup\digitalR\digitalR\bin\Debug\digitalR.exe.config
+F:\project backup new\project backup\digitalR\digitalR\bin\Debug\digitalR.exe.config
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.exe
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.xml
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.pdb
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.vbprojResolveAssemblyReference.cache
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.Admin.resources
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.adminorderview.resources
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.category.resources
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.Dailyreport.resources
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.feedback.resources
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.home.resources
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.item1.resources
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.kitchen.resources
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.login.resources
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.menulist.resources
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.Resources.resources
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.Offer.resources
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.offerupdate.resources
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.product.resources
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.Register.resources
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.RegisterUser.resources
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.RestuarantInformation.resources
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.staffdetail.resources
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.UserHomePage.resources
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.userPayment.resources
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.Vieworder.resources
+F:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.vbproj.GenerateResource.Cache
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.ManageStaffDetails.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.AdminDailyreport.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.ManageItem.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.MainHomepage.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.UserMenuShow.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.RestaurantDetailManage.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.KitchenLogin.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.AdminLogin.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.vbprojResolveAssemblyReference.cache
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.KitchenAllRecord.resources
+G:\project backup new\project backup\digitalR\digitalR\obj\x86\Debug\digitalR.paymentRecord.resources
